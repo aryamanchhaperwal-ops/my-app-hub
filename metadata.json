@@ -1,0 +1,7 @@
+{
+  "name": "Aryaman's App Hub",
+  "description": "A polished, responsive personal app portfolio and launcher showcasing web apps, prototypes, and digital projects created by Aryaman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
